@@ -1,4 +1,4 @@
-**Healthcare AI Chat**
+# Healthcare AI Chat
 
 This tool enables healthcare professionals to retrieve patient and medication information effortlessly using natural language, powered by LLMs.
 
